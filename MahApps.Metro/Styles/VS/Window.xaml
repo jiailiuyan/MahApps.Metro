@@ -31,5 +31,4 @@
         <Setter Property="LightMaxButtonStyle" Value="{StaticResource VSWindowButtonStyle}" />
         <Setter Property="LightMinButtonStyle" Value="{StaticResource VSWindowButtonStyle}" />
     </Style>
-
 </ResourceDictionary>
